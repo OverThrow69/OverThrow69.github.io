@@ -1,0 +1,7 @@
+name = "morries-reminder-sync"
+main = "worker.js"
+compatibility_date = "2026-10-05"
+
+[[kv_namespaces]]
+binding = "MORRIES_REMINDER_SYNC"
+id = "replace_with_your_kv_namespace_id"

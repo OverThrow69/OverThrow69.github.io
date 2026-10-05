@@ -1,0 +1,20 @@
+{
+  "name": "Morries Reminder",
+  "short_name": "Morries",
+  "id": ".",
+  "description": "AI daily reminders that sync from your PC to your phone.",
+  "categories": ["productivity", "utilities"],
+  "display": "standalone",
+  "start_url": ".",
+  "scope": ".",
+  "background_color": "#f5f7f4",
+  "theme_color": "#256f50",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
