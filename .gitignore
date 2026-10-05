@@ -15,6 +15,7 @@ download
 release
 release-sync
 public-release
+cloud-sync/wrangler.toml
 
 # Editor directories and files
 .vscode/*
