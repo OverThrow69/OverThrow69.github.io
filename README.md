@@ -32,10 +32,10 @@ See `cloud-sync/README.md` for the Cloudflare Worker deploy steps.
 
 ## Publish free on GitHub Pages
 
-This project includes a GitHub Actions workflow for free GitHub Pages hosting. After pushing it to a public GitHub repo called `morries-reminder`, GitHub will build and publish the app at:
+This project includes a GitHub Actions workflow for free GitHub Pages hosting. The simple public app URL is:
 
 ```text
-https://overthrow69.github.io/morries-reminder/
+https://overthrow69.github.io/
 ```
 
 Google can index that public URL after it is live. The local `192.168...` test link cannot be indexed by Google.
