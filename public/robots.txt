@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://overthrow69.github.io/morries-reminder/sitemap.xml
