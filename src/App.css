@@ -12,10 +12,10 @@
   inset: 0;
   z-index: -1;
   background:
-    linear-gradient(135deg, rgba(11, 18, 17, 0.82) 0%, rgba(17, 25, 39, 0.78) 48%, rgba(36, 22, 18, 0.88) 100%),
-    url('./assets/morries-background.jpg') right 12% center / min(74vw, 720px) auto no-repeat;
+    linear-gradient(135deg, rgba(11, 18, 17, 0.72) 0%, rgba(17, 25, 39, 0.62) 48%, rgba(36, 22, 18, 0.78) 100%),
+    url('./assets/morries-background.jpg') center center / cover no-repeat;
   content: '';
-  filter: brightness(0.74) contrast(1.18) saturate(1.28);
+  filter: brightness(0.82) contrast(1.2) saturate(1.35);
   opacity: 1;
 }
 
